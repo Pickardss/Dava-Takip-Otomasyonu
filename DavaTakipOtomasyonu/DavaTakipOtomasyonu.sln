@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavaTakipOtomasyonu", "DavaTakipOtomasyonu\DavaTakipOtomasyonu.csproj", "{BDFA382F-893F-49E9-8763-D2F6FA9CA5FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DavaTakipSetup", "DavaTakipSetup\DavaTakipSetup.vdproj", "{E1BC7C50-F2D4-473E-9F1D-E7673B8CF406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFA382F-893F-49E9-8763-D2F6FA9CA5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFA382F-893F-49E9-8763-D2F6FA9CA5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFA382F-893F-49E9-8763-D2F6FA9CA5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFA382F-893F-49E9-8763-D2F6FA9CA5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BC7C50-F2D4-473E-9F1D-E7673B8CF406}.Debug|Any CPU.ActiveCfg = Debug
+		{E1BC7C50-F2D4-473E-9F1D-E7673B8CF406}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1027D019-812F-4F67-AA08-E5456FAAD323}
+	EndGlobalSection
+EndGlobal
